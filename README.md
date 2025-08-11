@@ -14,7 +14,7 @@
 
 <h2>⚙️ Funcionalidades</h2>
 <ul>
-  <li>Matar todos os mosquito em um determinado tempo sem deixar passar pelo menos 3 mosquito para vencer</li>
+  <li>Se matar todos os mosquito em um determinado tempo sem deixar passar pelo menos 3 mosquito voçê vence</li>
   <li>Se passar 4 mosquito perde o jogo</li>
 </ul>
 
