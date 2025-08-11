@@ -20,10 +20,13 @@
 
 <h2>⚙️ Detalhes Técnicos</h2>
 <ul>
-  <li>Desenvolvido de forma muito simples e semântico</li>
-  <li>float e clear: both utilizado</li>
-  <li>article, aside e fieldset utilizado</li>
-  <li>:hover utilizado, :hover com underline</li>
-  <li>Adicionando mapa de localização e video na página</li>
-  <li>normalize.css utilizado</li>
+  <li>Paradigma Estruturado</li>
+  <li>Framework Bootstrap Utilizados</li>
+  <li>Uso de cdns para o framework bootstrap</li>
+  <li>Manipulação do DOM com JavaScript</li>
+  <li>select e option utilizado</li>
+  <li>Código javascript no no arquivo html e no arquivo JS</li>
+  <li>window.location.href para navegar entre arquivos</li>
+  <li>transform: scaleX(1) e transform: scaleX(-1) para aumentar e diminuir mosquitos</li>
+  <li>metodos replace, setInterval, clearInterval, remove, Math.floor, Math.random() e appendChild utilizados</li>
 </ul>
