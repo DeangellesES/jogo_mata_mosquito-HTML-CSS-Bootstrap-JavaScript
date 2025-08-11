@@ -20,7 +20,7 @@
 
 <h2>⚙️ Detalhes Técnicos</h2>
 <ul>
-  <li>Paradigma Estruturado</li>
+  <li>Paradigma de programação Estruturado</li>
   <li>Framework Bootstrap Utilizados</li>
   <li>Uso de cdns para o framework bootstrap</li>
   <li>Manipulação do DOM com JavaScript</li>
