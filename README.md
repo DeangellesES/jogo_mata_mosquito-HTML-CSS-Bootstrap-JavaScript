@@ -1,7 +1,7 @@
 <h1>Projeto: Jogo Mata Mosquito</h1>
 
 <h2>📌 Sobre o Projeto</h2>
-<p>Projeto front-end de uma jogo de matar mosquito. Desenvolvido durante um JavaSript, para estudo e prática.</p>
+<p>Projeto front-end de uma jogo de matar mosquito. Desenvolvido durante um curso de JavaSript, para estudo e prática.</p>
 
 <h3>💻<a href="https://deangelleses.github.io/jogo_mata_mosquito-HTML-CSS-Bootstrap-JavaScript/index.html" target="_blank"> Acessar Site do Projeto Aqui</a></h3>
 
@@ -14,11 +14,8 @@
 
 <h2>⚙️ Funcionalidades</h2>
 <ul>
-  <li>Divulgar Museu</li>
-  <li>Informações das exposições do Museu</li>
-  <li>Informar Localização</li>
-  <li>Informações de horário de funcionamento do Museu</li>
-  <li>Algumas fotos das exposições</li>
+  <li>Matar todos os mosquito em um determinado tempo sem deixar passar pelo menos 3 mosquito para vencer</li>
+  <li>Se passar 4 mosquito perde o jogo</li>
 </ul>
 
 <h2>⚙️ Detalhes Técnicos</h2>
